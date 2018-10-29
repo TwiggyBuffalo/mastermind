@@ -1,0 +1,18 @@
+.ball {
+  height: 50px;
+  width: 50px;
+}
+
+.mysteryBall{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: rgba(0,0,0,0.3);
+  border-radius: 100%;
+  font-size: 22px;
+  font-weight: 900;
+  margin: 0 5px;
+  height: 50px;
+  width: 50px;
+}

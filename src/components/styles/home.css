@@ -1,0 +1,56 @@
+.container{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f7f7f7;
+}
+
+.answerContainer {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0;
+  margin: 10px 0;
+  border: 1px solid rgba(0,0,0,0.8);
+  border-radius: 10px;
+  background-color: rgba(0,0,0,0.6);
+}
+
+.board{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 15px;
+  width: 450px;
+  background-color: #ffa400;
+  box-shadow: 5px 5px 10px 1px rgba(0,0,0,0.2);
+}
+
+.githubImg{
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: 0;
+}
+
+.cursorRed{
+  cursor: url('/static/images/cursor/ball_red.cur'), auto
+}
+
+.cursorGreen{
+  cursor: url('/static/images/cursor/ball_green.cur'), auto
+}
+
+.cursorBlue{
+  cursor: url('/static/images/cursor/ball_blue.cur'), auto
+}
+
+.cursorYellow{
+  cursor: url('/static/images/cursor/ball_yellow.cur'), auto
+}
+
+.cursorOrange{
+  cursor: url('/static/images/cursor/ball_orange.cur'), auto
+}

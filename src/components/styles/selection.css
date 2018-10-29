@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: #ffad33;
+  border-radius: 15px;
+  width: 60%;
+  padding: 0 5%;
+  margin: 20px 0;
+  box-shadow: 1px 5px 5px 1px rgba(0,0,0,0.1);
+}
+
+.container img{
+  cursor: pointer;
+  margin: 5px;
+}

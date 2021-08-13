@@ -39,7 +39,7 @@
     "prettier": "1.19.1",
     "prettier-eslint-cli": "^4.7.1",
     "standard": "^11.0.1",
-    "stylelint": "^9.4.0",
+    "stylelint": "13.13.1",
     "stylelint-config-recommended": "5.0.0"
   },
   "assetsPath": "src/static",
